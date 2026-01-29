@@ -1,14 +1,14 @@
-# 📺 YouTube Clone – A Vanilla JavaScript Modular App
+# 📽️ Winds Howling – A YouTube-Inspired Experience
 
-![YouTube Clone Screenshot](./docs/assets/images/youtube-home-screenshot.jpg)
+![Winds Howling Screenshot](./docs/images/home-screenshot.png)
 
 ## 📋 About
 
-Built with a strong focus on **responsiveness** and **accessibility**, the current [YouTube Clone]() has been developed using **vanilla JavaScript** and a clean **modular architecture**. It thoughtfully combines procedural and functional programming techniques to keep the codebase simple, modular, and maintainable. Featuring videos containing information about Studio Ghibli movies.
+[Winds Howling](https://windshowling.netlify.app/) is a YouTube UI-inspired frontend built with a strong focus on **responsiveness** and **accessibility**, developed using **vanilla JavaScript** and a clean **modular architecture**. It thoughtfully combines procedural and functional programming techniques to keep the codebase simple, modular, and maintainable. Featuring videos containing information about Studio Ghibli movies.
 
 It replicates the core UI and UX components of YouTube’s homepage, including:
 
-- 🎞️ Video cards  
+- 📹 Video cards  
 - 📂 Interactive side and top menus  
 - 💬 Accessible modals  
 - 🎙️ Voice search interaction  
@@ -38,7 +38,7 @@ This project draws inspiration from several sources that helped shape its develo
 
 Below are the actual audit and security test results demonstrating the portfolio’s performance and integrity.
 
-![Angel Valentino personal portfolio's Chrome lightouse full score screenshot](./docs/assets/images/project-audit-score.jpg)
+![Angel Valentino personal portfolio's Chrome lightouse full score screenshot](./docs/images/lighthouse-audit.png)
 
 <br>
 
@@ -49,18 +49,18 @@ The following project was fully designed and built by me, from layout to logic. 
 To use it locally for development, you can clone the repository from GitHub and open it with a Live Server (such as the VS Code extension) to see real-time updates as you work.
 
 ```bash
-git clone https://github.com/AngelValentino/youtube-clone.git
+git clone https://github.com/angelvalentino/winds-howling.git
 ```
 
 <br>
 
-## 🌱 YouTube clone: Evolution, Features and Limitations
+## 🌱 Winds Howling: Evolution, Features and Limitations
 
 ### Development Approach
 
-- **Goal:** A simple and accessible youtube clone, responsive across all screen sizes, and easy to interact with.
+- **Goal:** A simple and accessible Winds Howling, responsive across all screen sizes, and easy to interact with.
 - **Crafted with care:** Every aspect of the project, from the frontend to interactive features, was thoughtfully developed following best practices, with a strong focus on accessibility, performance, and user-centered design.
-- **Accessible Event Handling:** The toggle modal events function was implemented to add the necessary accessible event listeners. This function is a streamlined version of the event handler used in [taskflow](https://github.com/AngelValentino/TaskFlow), providing adequate functionality for a project of this scope.
+- **Accessible Event Handling:** The toggle modal events function was implemented to add the necessary accessible event listeners. This function is a streamlined version of the event handler used in [taskflow](https://github.com/angelvalentino/TaskFlow), providing adequate functionality for a project of this scope.
 
 ### Current Limitations
 
@@ -85,17 +85,17 @@ Although the project uses a mix of programming patterns and best practices, they
 
 ## 🖼️ Additional Images
 
-![Angel Valentino YouTube clone app screenshot](./docs/assets/images/side-menu-modal.jpg)
+![Angel Valentino Winds Howling app screenshot](./docs/images/side-menu-modal.png)
 
-![Angel Valentino YouTube clone app screenshot](./docs/assets/images/side-menu-thin.jpg)
+![Angel Valentino Winds Howling app screenshot](./docs/images/side-menu-thin.png)
 
-![Angel Valentino YouTube clone app screenshot](./docs/assets/images/navbar-settings.jpg)
+![Angel Valentino Winds Howling app screenshot](./docs/images/navbar-settings.png)
 
-![Angel Valentino YouTube clone app screenshot](./docs/assets/images/navbar-voice-search.jpg)
+![Angel Valentino Winds Howling app screenshot](./docs/images/navbar-voice-search.png)
 
-![YouTube clone navbar settings modal](./docs/assets/images/progessive-image-loading-1.jpg)
+![Winds Howling navbar settings modal](./docs/images/progressive-image-loading-1.png)
 
-![YouTube clone navbar settings modal](./docs/assets/images/progessive-image-loading-2.jpg)
+![Winds Howling navbar settings modal](./docs/images/progressive-image-loading.png)
 
 <br>
 
@@ -103,7 +103,7 @@ Although the project uses a mix of programming patterns and best practices, they
 
 Feel free to reach out for feedback, collaboration, or opportunities:
 
-- **GitHub**: [AngelValentino](https://github.com/AngelValentino)  
+- **GitHub**: [angelvalentino](https://github.com/angelvalentino)  
 - **Email**: angelvalentino294@gmail.com
 
 While I deeply value collaboration and community feedback, this project serves as a personal showcase of my software development and engineering skills. For that reason, I personally implement all features and improvements.
